@@ -1,9 +1,10 @@
-[![MasterHead](https://media.giphy.com/media/jpZvG8KmaVtF6/source.gif)]
+
 <h1 align="center">Hi 👋, I'm Ramcie Labadan</h1>
 <h3 align="center">A deeply explorative and passionate network engineer with skills of a full-stack software-developer.</h3>
-<img align="right" alt="Networking-Coding" width="400" src="https://images.app.goo.gl/nrkjK5N1KbsuTVDg8">
 
-- 🌱 I’m currently learning **CCNA and Python**
+- 🔭 I’m currently working on **my thesis and multiple personal side projects.**
+
+- 🌱 I’m currently learning **networking stuff and different programming languages.**
 
 - 💬 Ask me about **networking stuff and Java**
 
@@ -22,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramchi-san&show_icons=true&locale=en" alt="ramchi-san" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramchi-san&" alt="ramchi-san" /></p>
+
